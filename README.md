@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on alguns Projetos
 - 📫 How to reach me 85 99251-4091 ou pelo email: marcelino.ffeitosa@gmail.com
 ...
-##  contratação pelo whattsapp
+##  Contratação pelo whattsapp
 
 
 <!---
