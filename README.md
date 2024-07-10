@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on alguns Projetos
 - 📫 How to reach me 85 99251-4091 ou pelo email: marcelino.ffeitosa@gmail.com
 ...
-- PROUCURO VAGAS COMO ANALISTA DE DADOS E DATA SCIENC
+  CURSO DE FRONT-END, BI NALISTA DE DADOS
+- PROUCURO VAGAS COMO ANALISTA DE FRONT-END e DADOS E DATA SCIENC
 
 
 <!---
