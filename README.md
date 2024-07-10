@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcelinoFeitosa
-- 👀 I’m interested in Data Scienc
+- 👀 I’m interested in  Front-end, BI e Data Scienc
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on alguns Projetos
 - 📫 How to reach me 85 99251-4091 ou pelo email: marcelino.ffeitosa@gmail.com
