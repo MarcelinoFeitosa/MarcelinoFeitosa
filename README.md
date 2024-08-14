@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcelinoFeitosa
+- 👋 Hi, I’m @Marcelino Feitosa
 - 👀 I’m interested in  Front-end, BI e Data Scienc
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on alguns Projetos
